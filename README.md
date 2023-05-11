@@ -2,8 +2,6 @@
 Site da Prova
 Grupo: Garotos de programa
 
-Projeto: https://github.com/oJoaoLucas/PW1-Atividade-P2
-
 Nomes e RAs
 
 Edilson Junior 111996
