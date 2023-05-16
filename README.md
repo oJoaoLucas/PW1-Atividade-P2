@@ -1,12 +1,12 @@
 # PW1-Atividade-P2 - Site para P2
 
 ## Grupo: Garotos de programa
-- Edilson Junior RA:111996 (github.com/Edinho7k)
+- Edilson Junior RA:111996 (https://github.com/Edinho7k)
 - Guilherme Fusco Bertogna RA:114069
-- Isaac Paes Rasxid RA:113629 (github.com/IsaacRasxid)
-- João Lucas Lima RA:113059 (github.com/oJoaoLucas)
-- Nicolas Villela RA:113661 (github.com/nicolasanalyst)
-- Rafael Richard Ribeiro RA:110558 (github.com/RaffaRichard)
+- Isaac Paes Rasxid RA:113629 (https://github.com/IsaacRasxid)
+- João Lucas Lima RA:113059 (https://github.com/oJoaoLucas)
+- Nicolas Villela RA:113661 (https://github.com/nicolasanalyst)
+- Rafael Richard Ribeiro RA:110558 (https://github.com/RaffaRichard)
 
 ## Descrição do projeto:
 O projeto consiste no desenvolvimento de um site para a oficina Jura Auto Center, que tem como objetivo proporcionar uma presença online sólida e informativa para os clientes em potencial. O site será projetado especialmente para atender às necessidades da oficina, fornecendo informações detalhadas sobre os serviços oferecidos, localização e formas de contato.
