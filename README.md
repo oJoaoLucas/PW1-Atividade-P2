@@ -24,4 +24,4 @@
 
 - Contato: Uma seção dedicada a fornecer informações de contato da Jura Auto Center, como números de telefone, endereço de e-mail. Também inclui um formulário de contato para que os visitantes possam enviar mensagens diretamente à oficina e apresenta a localização física da oficina, acompanhada de um mapa interativo para facilitar a navegação dos clientes até o local e horário de funcionamento.
 
-## Imagens
+## Imagens.
