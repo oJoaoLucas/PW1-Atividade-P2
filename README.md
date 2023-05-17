@@ -2,7 +2,7 @@
 
 ## Grupo: Garotos de programa
 - Edilson Junior RA:111996 (https://github.com/Edinho7k)
-- Guilherme Fusco Bertogna RA:114069
+- Guilherme Fusco Bertogna RA:114069 (https://github.com/GuilhermefBertogna)
 - Isaac Paes Rasxid RA:113629 (https://github.com/IsaacRasxid)
 - João Lucas Lima RA:113059 (https://github.com/oJoaoLucas)
 - Nicolas Villela RA:113661 (https://github.com/nicolasanalyst)
@@ -20,8 +20,8 @@ Quem Somos: Uma seção dedicada a apresentar informações sobre a oficina, sua
 
 Serviços: Uma página que detalha os diversos serviços oferecidos pela oficina, abrangendo áreas como suspensão, freios, alinhamento e balanceamento, entre outros. Cada serviço é descrito de forma clara e objetiva, demonstrando a capacidade da oficina em atender às necessidades dos clientes.
 
-Contato: Uma seção dedicada a fornecer informações de contato da Jura Auto Center, como números de telefone, endereço de e-mail. Também pode incluir um formulário de contato para que os visitantes possam enviar mensagens diretamente à oficina.
+Promoções: Nesta seção, os visitantes do site poderão encontrar as últimas promoções e ofertas especiais oferecidas pela Jura Auto Center. Serão destacados descontos exclusivos. As promoções serão atualizadas regularmente para garantir que os clientes aproveitem as melhores oportunidades.
 
-Localização: Uma página que apresenta a localização física da oficina, acompanhada de um mapa interativo para facilitar a navegação dos clientes até o local e horário de funcionamento.
+Contato: Uma seção dedicada a fornecer informações de contato da Jura Auto Center, como números de telefone, endereço de e-mail. Também inclui um formulário de contato para que os visitantes possam enviar mensagens diretamente à oficina e apresenta a localização física da oficina, acompanhada de um mapa interativo para facilitar a navegação dos clientes até o local e horário de funcionamento.
 
 ## Imagens
