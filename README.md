@@ -9,9 +9,9 @@
 - Rafael Richard Ribeiro RA:110558 (https://github.com/RaffaRichard)
 
 ## Descrição do projeto:
-O projeto consiste no desenvolvimento de um site para a oficina Jura Auto Center, que tem como objetivo proporcionar uma presença online sólida e informativa para os clientes em potencial. O site será projetado especialmente para atender às necessidades da oficina, fornecendo informações detalhadas sobre os serviços oferecidos, localização e formas de contato.
+  O projeto consiste no desenvolvimento de um site para a oficina Jura Auto Center, que tem como objetivo proporcionar uma presença online sólida e informativa para os clientes em potencial. O site será projetado especialmente para atender às necessidades da oficina, fornecendo informações detalhadas sobre os serviços oferecidos, localização e formas de contato.
 
-O site será desenvolvido utilizando tecnologias web modernas, como HTML5, CSS3 e JavaScript, garantindo uma experiência de navegação suave e interativa. 
+- O site será desenvolvido utilizando tecnologias web modernas, como HTML5, CSS3 e JavaScript, garantindo uma experiência de navegação suave e interativa. 
 
 ## O site incluirá as seguintes seções principais:
 - Home: A página inicial do site, projetada para fornecer uma introdução atraente e concisa sobre a Jura Auto Center. Destaca os principais benefícios e serviços oferecidos pela oficina, transmitindo confiança e profissionalismo aos visitantes.
