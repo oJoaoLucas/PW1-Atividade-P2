@@ -14,14 +14,14 @@ O projeto consiste no desenvolvimento de um site para a oficina Jura Auto Center
 O site será desenvolvido utilizando tecnologias web modernas, como HTML5, CSS3 e JavaScript, garantindo uma experiência de navegação suave e interativa. 
 
 ## O site incluirá as seguintes seções principais:
-Home: A página inicial do site, projetada para fornecer uma introdução atraente e concisa sobre a Jura Auto Center. Destaca os principais benefícios e serviços oferecidos pela oficina, transmitindo confiança e profissionalismo aos visitantes.
+- Home: A página inicial do site, projetada para fornecer uma introdução atraente e concisa sobre a Jura Auto Center. Destaca os principais benefícios e serviços oferecidos pela oficina, transmitindo confiança e profissionalismo aos visitantes.
 
-Quem Somos: Uma seção dedicada a apresentar informações sobre a oficina, sua história, valores e compromisso com a excelência no atendimento aos clientes. Destaca a expertise da equipe técnica e os diferenciais da Jura Auto Center no mercado automotivo.
+- Quem Somos: Uma seção dedicada a apresentar informações sobre a oficina, sua história, valores e compromisso com a excelência no atendimento aos clientes. Destaca a expertise da equipe técnica e os diferenciais da Jura Auto Center no mercado automotivo.
 
-Serviços: Uma página que detalha os diversos serviços oferecidos pela oficina, abrangendo áreas como suspensão, freios, alinhamento e balanceamento, entre outros. Cada serviço é descrito de forma clara e objetiva, demonstrando a capacidade da oficina em atender às necessidades dos clientes.
+- Serviços: Uma página que detalha os diversos serviços oferecidos pela oficina, abrangendo áreas como suspensão, freios, alinhamento e balanceamento, entre outros. Cada serviço é descrito de forma clara e objetiva, demonstrando a capacidade da oficina em atender às necessidades dos clientes.
 
-Promoções: Nesta seção, os visitantes do site poderão encontrar as últimas promoções e ofertas especiais oferecidas pela Jura Auto Center. Serão destacados descontos exclusivos. As promoções serão atualizadas regularmente para garantir que os clientes aproveitem as melhores oportunidades.
+- Promoções: Nesta seção, os visitantes do site poderão encontrar as últimas promoções e ofertas especiais oferecidas pela Jura Auto Center. Serão destacados descontos exclusivos. As promoções serão atualizadas regularmente para garantir que os clientes aproveitem as melhores oportunidades.
 
-Contato: Uma seção dedicada a fornecer informações de contato da Jura Auto Center, como números de telefone, endereço de e-mail. Também inclui um formulário de contato para que os visitantes possam enviar mensagens diretamente à oficina e apresenta a localização física da oficina, acompanhada de um mapa interativo para facilitar a navegação dos clientes até o local e horário de funcionamento.
+- Contato: Uma seção dedicada a fornecer informações de contato da Jura Auto Center, como números de telefone, endereço de e-mail. Também inclui um formulário de contato para que os visitantes possam enviar mensagens diretamente à oficina e apresenta a localização física da oficina, acompanhada de um mapa interativo para facilitar a navegação dos clientes até o local e horário de funcionamento.
 
 ## Imagens
