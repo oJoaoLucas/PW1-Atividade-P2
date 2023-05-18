@@ -22,23 +22,33 @@ time, mark, audio, video {
 }
 
 body {
-	
+	padding: 0;
     margin: 0;
+	position: relative;
 	font-family: 'Titillium Web', sans-serif;
   }
 
 
 
 
-.menu.menu-home {
-	background-color: #ffffff; 
-  }
-  .menu {
+  .cabecalho {
 	position: fixed;
 	top: 0;
-	background-color: rgba(255, 255, 255, 0.9); 
+	width: 100%;
+	z-index: 100;
+  }
+  
+  .menu.menu-home {
+	background-color: #ffffff;
+  }
+  
+  .menu {
+	background-color: rgba(255, 255, 255, 0.9);
+	position: relative;
 	text-align: center;
 	width: 100%;
+	margin-top: 0px; /* Adicione a margem superior para evitar que o conteúdo fique oculto */
+	z-index: 999; /* Defina um valor alto de z-index */
   }
   
   .menu ul {
@@ -101,56 +111,65 @@ body {
   
   
 
+  .title-home {
+	padding: 20px; /* Espaçamento interno para separar o texto do fundo */
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)); /* Gradiente preto com 80% de opacidade */
+	color: #ffffff; /* Cor do texto branco */
+	border-radius: 10px;
+  }
+  
 
-
-
-
-
-.cabecalho-banner img{
+  .cabecalho-banner {
+	position: relative;
 	width: 100%;
 	height: 8%;
-}
-
-.title-home p{
+  }
+  
+  .cabecalho-banner img {
+	width: 100%;
+	height: 100%;
+  }
+  
+  .title-home {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 	text-align: center;
-	margin: 30px 20px;
-	margin-bottom: 30px;
-}
-.title-home h3{
-    font-size: 30px;
-	text-align: center;
-	margin: 30px 0;
+	color: #ffffff;
+  }
+  
+  .title-home h3 {
+	font-size: 30px;
 	font-weight: bold;
 	color: #cd0000;
-}
-
-.title-home h2{
-	text-align: center;
-	margin: 30px 20px;
+	margin-bottom: 10px;
+  }
+  
+  .title-home h2 {
 	font-size: 30px;
-}
-
-.title-home p{
-    font-size: 20px;
-	text-align: center;
-	margin: 30px 20px;
-}
-
-.btn-saiba {
-	display: block;
-	margin: 0 auto;
-	width: 140px;
-	padding: 15px 0;
+	margin: 0;
+  }
+  
+  .title-home p {
+	font-size: 20px;
+	margin: 10px 0;
+  }
+  
+  .btn-saiba {
+	display: inline-block;
+	margin-top: 20px;
+	padding: 15px 30px;
 	border-radius: 3px;
-	background-color:  #cd0000;
+	background-color: #cd0000;
 	border: none;
 	font-size: 1em;
-}
-
-.btn-saiba a {
+  }
+  
+  .btn-saiba a {
 	text-decoration: none;
-	color: #ebebeb;
-}
+	color: #ffffff;
+  }
 
 .sobre-servicos{
 	margin-top: 30px;
@@ -276,22 +295,28 @@ body {
 .cartao-aceitos{
 	width: 100%;
 	max-width: 300px;
-	margin: 50px 0 0 0 ;
+	margin: 30px 0 0 0 ;
+	padding-left: 100px;
 }
 
 .copyright{
-	margin: 50px 0 0 0 ;
+	margin: 30px 0 0 0 ;
 	line-height: 25px;
 	color: #ebebeb;
 }
 
-.rodape{
-
-	padding: 20px 20px;
+.rodape-home{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
 	background-color: #000;
+	color: #ffffff;
+	padding: 20px;
+
 }
 
-.rodape{
+.rodape-home{
 	display: flex;
 	flex-wrap: wrap;
 	flex-direction: column;
@@ -300,8 +325,25 @@ body {
 	background-color: #000;
 }
 
+.rodape {
+	width: 100%;
+	background-color: #000;
+	color: #ffffff;
+	padding: 20px;
+	margin-top: auto;
+  }
+  
+  .rodape {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	height: 300px;
+	padding: 30px 0 0 20px;
+	background-color: #000;
+  }
 
 .localizacao i {
+	padding-left: 30px;
 	margin-bottom: 10px;
 	line-height: 25px;
   }
@@ -323,7 +365,7 @@ body {
   }
   
 .redes-sociais{
-	
+	padding-left: 30px;
 	margin: 50px 0 0 0;
 }
 
@@ -570,7 +612,7 @@ margin-right: 10px;
   .modal {
 	display: none;
 	position: fixed;
-	z-index: 1;
+	z-index: 9999; /* Defina um valor alto de z-index */
 	padding-top: 50px;
 	left: 0;
 	top: 0;
@@ -596,6 +638,7 @@ margin-right: 10px;
 	font-weight: bold;
 	cursor: pointer;
   }
+  
   
   .promo h3{
     font-size: 30px;
@@ -626,3 +669,11 @@ margin-right: 10px;
   .floating-button:hover {
 	background-color: #45A049; 
   }
+
+
+
+
+
+  
+  
+  
