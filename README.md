@@ -1,4 +1,4 @@
-# PW1-Atividade-P2 - Site para P2
+# PW1-Atividade-P2 - Site para P2.
 
 ## Grupo: Garotos de programa
 - Edilson Junior RA:111996 (https://github.com/Edinho7k)
