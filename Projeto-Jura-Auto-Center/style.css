@@ -171,31 +171,43 @@ body {
 	color: #ffffff;
   }
 
-.sobre-servicos{
-	margin-top: 30px;
-	background-color: #f7f7f7;
-	padding: 50px 20px;
-}
 
-.sobre-servicos h2{
+
+  
+  .sobre-servicos {
+	margin-top: 20px;
+	background-color: #f4f4f4;
+	padding: 10px 10px;
+  }
+
+  .sobre-servicos .container {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 100%;
+	width: 100%;
+	box-sizing: border-box;
+	padding: 0 20px;
+  }
+
+  .sobre-servicos h2 {
 	text-align: center;
 	font-weight: bold;
 	font-size: 1.5em;
-	margin-bottom: 30px;
-}
+	margin-bottom: px;
+  }
 
-.sobre-servicos h1{
+  .sobre-servicos h1 {
 	text-align: center;
 	font-weight: bold;
 	font-size: 30px;
 	margin-bottom: 30px;
-}
+  }
 
-.sobre-servicos p{
+  .sobre-servicos p {
 	text-align: center;
 	line-height: 20px;
-    font-size: 15px;
-}
+	font-size: 15px;
+  }
 
 
 .servicos{
@@ -254,16 +266,25 @@ body {
     overflow: hidden;
     position: relative;
     margin-top: 30px;
+	margin-bottom: 300px;
   }
-  
+
+  .slider-container h1 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	margin-bottom: 30px;
+  }
+
+
   .slider {
     display: flex;
     animation: slide-animation     30s linear infinite;
   }
   
-  .slider img {
-    width: 100%;
-    height: auto;
+  .slider {
+	display: flex;
+	animation: slide-animation 30s linear infinite;
   }
   
   @keyframes slide-animation {
@@ -326,6 +347,7 @@ body {
 }
 
 .rodape {
+	margin-top: 10px;
 	width: 100%;
 	background-color: #000;
 	color: #ffffff;
@@ -577,10 +599,12 @@ margin-right: 10px;
 #back-to-top {
 	background: white;
 	color: var(--text-color-light);
-  
+	border-radius: 50px;
 	position: fixed;
 	bottom: 50px;
 	right: 50px;
+	width: 60px; 
+	height: 60px; 
   }
   
 
@@ -671,9 +695,52 @@ margin-right: 10px;
   }
 
 
+  .contato-mapa {
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 3px;
+  }
 
+  .contato-home {
+	flex: 1;
+	padding: 10px;
+	background-color: #d70a0a;
+	color: #fff;
+	text-align: right;
+  }
 
+  .contato-home h2 {
+	font-size: 24px;
+	margin-bottom: 10px;
+  }
 
-  
-  
-  
+  .contato-home p {
+	font-size: 16px;
+	margin-bottom: 10px;
+  }
+
+  .contato-home ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+  }
+
+  .contato-home li {
+	font-size: 14px;
+	margin-bottom: 5px;
+  }
+
+  .mapa-container {
+	flex: 1;
+	background-color: #ff0000;
+	position: relative;
+	margin-left: 20px;
+	display: flex;
+	align-items: flex-start;
+  }
+
+  .mapa-container iframe {
+	width: 100%;
+	height: 100%;
+	border: 0;
+  }
