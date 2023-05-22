@@ -33,7 +33,7 @@
   <img src="https://github.com/oJoaoLucas/PW1-Atividade-P2/blob/b89b822936bf8bcfcbda2154cff20384c541881e/IMAGENS-SITE/HOME.png" width="250PX"> 
     </td>
       <td>
-        <h3>QUEM SOMOS/h3>
+        <h3>QUEM SOMOS</h3>
   <img src="https://github.com/oJoaoLucas/PW1-Atividade-P2/blob/b89b822936bf8bcfcbda2154cff20384c541881e/IMAGENS-SITE/QUEM-SOMOS.png" width="250PX"> 
     </td>
     <td>
