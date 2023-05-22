@@ -30,26 +30,26 @@
   <tr>
     <td>
         <h3>HOME</h3>
-        <a href="https://github.com/oJoaoLucas/PW1-Atividade-P2/blob/b89b822936bf8bcfcbda2154cff20384c541881e/IMAGENS-SITE/HOME.png">width="250px"></a>
+  <img src="https://github.com/oJoaoLucas/PW1-Atividade-P2/blob/b89b822936bf8bcfcbda2154cff20384c541881e/IMAGENS-SITE/HOME.png" width="250PX"> 
     </td>
       <td>
         <h3>QUEM SOMOS/h3>
-        <a href="https://github.com/oJoaoLucas/PW1-Atividade-P2/blob/b89b822936bf8bcfcbda2154cff20384c541881e/IMAGENS-SITE/QUEM-SOMOS.png">width="250px"></a>
+  <img src="https://github.com/oJoaoLucas/PW1-Atividade-P2/blob/b89b822936bf8bcfcbda2154cff20384c541881e/IMAGENS-SITE/QUEM-SOMOS.png" width="250PX"> 
     </td>
     <td>
       <h3>SERVIÇOS</h3>
-      <a href="https://github.com/oJoaoLucas/PW1-Atividade-P2/blob/b89b822936bf8bcfcbda2154cff20384c541881e/IMAGENS-SITE/SERVICOS.png" width="250px" ></a>
+  <img src="https://github.com/oJoaoLucas/PW1-Atividade-P2/blob/b89b822936bf8bcfcbda2154cff20384c541881e/IMAGENS-SITE/SERVICOS.png" width="250PX"> 
     </td>
   </tr>
   <tr>
     <td>
       <h3>PROMOÇÕES</h3>
-      <a href="https://github.com/oJoaoLucas/PW1-Atividade-P2/blob/b89b822936bf8bcfcbda2154cff20384c541881e/IMAGENS-SITE/PROMOCOES.png" width="250px" ></a>
+  <img src="https://github.com/oJoaoLucas/PW1-Atividade-P2/blob/b89b822936bf8bcfcbda2154cff20384c541881e/IMAGENS-SITE/PROMOCOES.png" width="250PX"> 
     </td>
     <td>
       <h3>CONTATO</h3>
-      <a href="https://github.com/oJoaoLucas/PW1-Atividade-P2/blob/b89b822936bf8bcfcbda2154cff20384c541881e/IMAGENS-SITE/CONTATO.png" width="250px" ></a>
+      <img src="https://github.com/oJoaoLucas/PW1-Atividade-P2/blob/b89b822936bf8bcfcbda2154cff20384c541881e/IMAGENS-SITE/CONTATO.png" width="250PX"> 
     </td>
   </tr>
-  
+
 </table>
