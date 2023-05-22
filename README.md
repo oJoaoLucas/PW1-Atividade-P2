@@ -25,3 +25,31 @@
 - Contato: Uma seção dedicada a fornecer informações de contato da Jura Auto Center, como números de telefone, endereço de e-mail. Também inclui um formulário de contato para que os visitantes possam enviar mensagens diretamente à oficina e apresenta a localização física da oficina, acompanhada de um mapa interativo para facilitar a navegação dos clientes até o local e horário de funcionamento.
 
 ## Imagens.
+
+<table border="2">
+  <tr>
+    <td>
+        <h3>HOME</h3>
+        <a href="https://github.com/oJoaoLucas/PW1-Atividade-P2/blob/b89b822936bf8bcfcbda2154cff20384c541881e/IMAGENS-SITE/HOME.png">width="250px"></a>
+    </td>
+      <td>
+        <h3>QUEM SOMOS/h3>
+        <a href="https://github.com/oJoaoLucas/PW1-Atividade-P2/blob/b89b822936bf8bcfcbda2154cff20384c541881e/IMAGENS-SITE/QUEM-SOMOS.png">width="250px"></a>
+    </td>
+    <td>
+      <h3>SERVIÇOS</h3>
+      <a href="https://github.com/oJoaoLucas/PW1-Atividade-P2/blob/b89b822936bf8bcfcbda2154cff20384c541881e/IMAGENS-SITE/SERVICOS.png" width="250px" ></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>PROMOÇÕES</h3>
+      <a href="https://github.com/oJoaoLucas/PW1-Atividade-P2/blob/b89b822936bf8bcfcbda2154cff20384c541881e/IMAGENS-SITE/PROMOCOES.png" width="250px" ></a>
+    </td>
+    <td>
+      <h3>CONTATO</h3>
+      <a href="https://github.com/oJoaoLucas/PW1-Atividade-P2/blob/b89b822936bf8bcfcbda2154cff20384c541881e/IMAGENS-SITE/CONTATO.png" width="250px" ></a>
+    </td>
+  </tr>
+  
+</table>
